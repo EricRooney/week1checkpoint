@@ -1,0 +1,36 @@
+.bg-bodyimage {
+  background: url("https://img.wallpapersafari.com/desktop/1920/1080/21/76/4JuiKv.jpg")
+    center;
+  background-size: cover;
+}
+
+.text-color {
+  color: blue;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: medium;
+}
+
+.btn-rounded {
+  border-radius: 15%;
+  background-color: rgb(29, 199, 29);
+  color: blue;
+}
+
+.drop-shadow {
+  box-shadow: whitesmoke;
+}
+
+.article-img {
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+}
+
+.card-color {
+  background: blue;
+}
+
+.card-main-color {
+  background: transparent;
+  border: none;
+}
