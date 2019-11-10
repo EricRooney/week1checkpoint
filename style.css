@@ -34,3 +34,8 @@
   background: transparent;
   border: none;
 }
+
+.video-style {
+  width: 100%;
+  max-width: 560px;
+}
