@@ -56,9 +56,10 @@
 }
 
 .card-spillout {
+  margin-top: 20px;
   border: 4px solid var(--gray);
 }
 
-.card-ht {
-  height: 420px;
+.hr-margin {
+  margin: 150px;
 }
