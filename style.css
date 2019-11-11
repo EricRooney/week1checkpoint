@@ -63,8 +63,16 @@
 .hr-margin {
   margin-top: 250px;
   margin-bottom: 100px;
+  border: none;
+  height: 20px;
+  color: blue;
+  background-color: blue;
 }
 
 .img-ht {
   height: 200px;
+}
+
+.img-logo {
+  background-color: blue;
 }
