@@ -68,16 +68,3 @@
 .img-ht {
   height: 200px;
 }
-
-.flexbox {
-  background-color: pink;
-  display: flex;
-  justify-content: space-between;
-  flex-wrap: wrap;
-}
-.flex-item {
-  width: 175px;
-  height: 175px;
-  background-color: grey;
-  margin: 10px auto;
-}
